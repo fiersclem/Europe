@@ -20,3 +20,16 @@ btnLessBox.addEventListener('click' , () => {
   btnLessBox.style.display = 'none';
 
 })
+
+
+const openButton = document.querySelector('.open-popup');
+const closeButton = document.querySelector('.close');
+const popup = document.getElementById('popup');
+
+openButton.addEventListener('click', () => {
+  popup.style.visibility = 'visible';
+});
+
+closeButton.addEventListener('click', () => {
+  popup.style.visibility = 'hidden';
+});
