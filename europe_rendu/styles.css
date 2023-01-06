@@ -1,0 +1,166 @@
+@media screen and (max-width:767px) {
+      
+    body {
+        background-color: #92218F;
+    }
+    h4{
+        color: white;
+    }
+    #disco{
+        color:white;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    #bio{
+         color: white;
+         margin-bottom: 30px;
+         font-size: 60px;
+    }
+
+    .nav-link {
+        color: white;
+        font-size: 30px;
+        }
+
+        .europe{
+            font-size: 150px;
+            color: #FFD500;
+        }
+        img{ 
+            width: 300px;
+        }
+
+        .player{
+            border-radius: 30px;
+            border-style: solid;
+            border-width: 5px;
+            border-color: white;
+            margin-right: 100px;
+        }
+        .player_img{
+            border-radius: 150px;
+            width: 150px;
+        }
+
+        p{
+            font-size: 25px;
+            margin-right: 0px;
+            color:white;
+        }
+        .disco {
+            margin-left: 100px;
+            }
+    
+  
+        .d1 {
+            display: none;
+        }
+
+        .play{
+            width: 100px;
+        }
+
+        .progress{
+            width: 800px;
+        }
+
+        .reseau{
+            width: 100px;
+        }
+
+        figcaption{
+            color: white;
+        }
+            
+
+}
+
+
+@media screen and (min-width:768px) {
+
+    body {
+        background-color: #92218F;
+    }
+    h4{
+        color: white;
+    }
+    #disco{
+        color:white;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    #bio{
+         color: white;
+         margin-bottom: 30px;
+         font-size: 60px;
+    }
+
+    .nav-link {
+        color: white;
+        font-size: 30px;
+        }
+
+        .europe{
+            font-size: 150px;
+            color: #FFD500;
+        }
+        img{ 
+            width: 300px;
+        }
+
+        .player{
+            border-radius: 30px;
+            border-style: solid;
+            border-width: 5px;
+            border-color: white;
+            margin-right: 100px;
+        }
+        .player_img{
+            border-radius: 150px;
+            width: 150px;
+        }
+
+        p{
+            font-size: 25px;
+            margin-right: 0px;
+            color:white;
+        }
+        .disco {
+            margin-left: 100px;
+            }
+    
+
+        .play{
+            width: 100px;
+        }
+
+        .progress{
+            width: 800px;
+        }
+
+        .reseau{
+            width: 100px;
+        }
+
+        figcaption{
+            color: white;
+        }
+
+      
+}
+
+.btn-less{
+    display: none;
+}
+
+#d1{
+    display: none;
+}
+
+.b1{
+    margin-bottom: 30px;
+}
+  
+.b2{
+    margin-top: 30px;
+}
